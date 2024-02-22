@@ -10,11 +10,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 💫 About Me:
-My top Spotify Wrapped is Usher & Dr.Dre
+My top Spotify Wrapped is Usher & Dr. Dre
 
 ## 🚀 What I'm Up To
 🤖 Exploring Machine Learning with scikit-learn
-💻 Building ____ applications with ______
+
+💻 Building Spring Boot applications with PostgreSQL
+
 Check out my coding portfolio!
 
 ## 🎓 About Me
