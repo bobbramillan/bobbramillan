@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 💫 About Me:
-* I love listening to Usher, Dr. Dre, and Chingy.
-* Im also a PC Builder, current build runs on AMD's 5700G with 32GB DDR4 on a MSI Tomahawk
+* I love RnB pop, currently listening to: Usher, Jay Z, and Ludacris.
+* I also build PC's for fun, current build: AMD's 5700G with 32GB DDR4 on a MSI Tomahawk
 * My favourite teams are: NY Giants & the Knicks (maybe also the Sixers lol)
 
 ## 🚀 What I'm Up To
