@@ -10,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 💫 About Me:
-My top Spotify Wrapped is Usher & Dr. Dre
+* I love listening to Usher, Dr. Dre, and Chingy.
+* Im also a PC Builder, current build runs on AMD's 5700G with 32GB DDR4 on a MSI Tomahawk
+* My favourite teams are: NY Giants & the Knicks
 
 ## 🚀 What I'm Up To
 🤖 Exploring Machine Learning with scikit-learn
