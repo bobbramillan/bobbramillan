@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and coding
 - 🌱 I’m currently learning data science and machine learning
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me bob.bramillan@gmail.com
+- 📫 How to reach me bbramillan@gmail.com
 
 <!---
 bobbramillan/bobbramillan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
