@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 💫 About Me:
-* I am a pianist & hooper 🏀.
+* I am a pianist 🎹 & hooper 🏀.
 * I also build PC's for fun, current build: AMD's 5700G with 32GB DDR4 on a MSI Tomahawk
 * My favourite teams are: NY Giants 🏈 & the Knicks 🏀 (maybe also the Sixers lol) & Liverpool(I have a Sadio Mané kit) ⚽
 
