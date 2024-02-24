@@ -19,7 +19,11 @@ You can click the Preview link to take a look at your changes.
 
 💻 Building Spring Boot applications with PostgreSQL
 
-Check out my coding portfolio!
+Check out my coding portfolio! 
+
+*Recent Projects*: 
+**Oxford Dictionary Web Scraper**: [(https://englishdictionary.streamlit.app/)]
+**Titanic Database Query App**: [(https://bobtitanic.streamlit.app/)]
 
 ## 🎓 About Me
 I am a second-year electronics & computer engineering student at Drexel University, passionate about exploring the realms of fullstack, machine learning, and building robust applications. Some important coursework: Digital Logic Design, Data Structures, Linear Algebra.
