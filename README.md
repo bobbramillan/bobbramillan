@@ -22,13 +22,13 @@ You can click the Preview link to take a look at your changes.
 Check out my coding portfolio!
 
 ## 🎓 About Me
-I am a second-year electronics & computer engineering student at Drexel University, passionate about exploring the realms of fullstack, machine learning, and building robust applications.
+I am a second-year electronics & computer engineering student at Drexel University, passionate about exploring the realms of fullstack, machine learning, and building robust applications. Some important coursework: Digital Logic Design, Data Structures, Linear Algebra.
 
 **🌐 Connect with me**: [LinkedIn](https://www.linkedin.com/in/bavananb/)
 
 # 💻 Tech Stack:
 **Languages**: Python Java HTML5 CSS JavaScript C VHDL
 
-**Developer Tools**: Git
+**Developer Tools**: Git Streamlit
 
 **Libraries/Frameworks**: Flask Django ReactJS 
