@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ## 🚀 What I'm Up To
 🤖 Exploring Machine Learning with scikit-learn
 
-💻 Building Spring Boot applications with PostgreSQL
+💻 Building LoopBack applications with Node.js
 
 Check out my coding portfolio! & my [Personal Website](https://bobbramillan.github.io/bavanan/)
 
