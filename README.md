@@ -15,9 +15,7 @@ You can click the Preview link to take a look at your changes.
 * My favourite teams are: NY Giants 🏈 & the Knicks 🏀 (maybe also the Sixers lol) & Liverpool(I have a Sadio Mané kit) ⚽
 
 ## 🚀 What I'm Up To
-🤖 Exploring Machine Learning with scikit-learn
-
-💻 Building LoopBack applications with Node.js
+🤖 Building a Machine Learning project with scikit-learn and nba_api
 
 Check out my coding portfolio! & my [Personal Website](https://bobbramillan.github.io/bavanan/)
 
@@ -37,4 +35,4 @@ I am a second-year electronics & computer engineering student at Drexel Universi
 
 **Developer Tools**: Git Streamlit
 
-**Libraries/Frameworks**: Flask Django ReactJS 
+**Libraries/Frameworks**: Flask, React, Jest
