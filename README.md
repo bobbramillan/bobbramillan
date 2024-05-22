@@ -17,13 +17,15 @@ You can click the Preview link to take a look at your changes.
 ## 🚀 What I'm Up To
 🤖 Building a Machine Learning project with scikit-learn and nba_api
 
-Check out my coding portfolio! & my [Personal Website](https://bobbramillan.github.io/bavanan/)
+Check out my coding portfolio! & my [Personal Website](https://bobbramillan.github.io/bavanan/), [Digital Resume](https://my-digital-resume-scwc.onrender.com) 
 
 *Recent Projects*:
 
 [Oxford Dictionary Web Scraper](https://englishdictionary.streamlit.app/)
 
 [Titanic Database Query App](https://bobtitanic.streamlit.app/)
+
+[NBA Web Recc App for Free-Agents]("coming soon")
 
 ## 🎓 About Me
 I am a second-year electronics & computer engineering student at Drexel University, passionate about exploring the realms of fullstack, machine learning, and building robust applications. Some important coursework: Digital Logic Design, Data Structures, Linear Algebra.
