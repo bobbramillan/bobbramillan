@@ -25,7 +25,7 @@ Check out my coding portfolio! & my [Personal Website](https://bobbramillan.gith
 
 [Titanic Database Query App](https://bobtitanic.streamlit.app/)
 
-[NBA Web Recc App for Free-Agents]("coming soon")
+[NBA Web Recc App for Free-Agents](https://nba-study-103.streamlit.app/)
 
 ## 🎓 About Me
 I am a second-year electronics & computer engineering student at Drexel University, passionate about exploring the realms of fullstack, machine learning, and building robust applications. Some important coursework: Digital Logic Design, Data Structures, Linear Algebra.
