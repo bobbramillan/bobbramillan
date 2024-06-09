@@ -27,8 +27,10 @@ Check out my coding portfolio! & my [Personal Website](https://bobbramillan.gith
 
 [NBA Data Visualization](https://nba-study-103.streamlit.app/) and [it's repo](https://github.com/man-bug/nba-study-103)
 
+in progress: [Bav Bot](https://github.com/bobbramillan/bav_bot)
+
 ## 🎓 About Me
-I am a second-year electronics & computer engineering student at Drexel University, passionate about exploring the realms of fullstack, machine learning, and building robust applications. Some important coursework: Digital Logic Design, Data Structures, Linear Algebra.
+I am a second-year electronics & computer engineering student at Drexel University, passionate about exploring the realms of fullstack, machine learning, both SWE & hardware engineering, and building robust applications as I learn. Some important coursework: Digital Logic Design, Data Structures & Algorithms, Linear Algebra, Multivariate Calc, Computer Organization, Intro to Data Science.
 
 **🌐 Connect with me**: [LinkedIn](https://www.linkedin.com/in/bavananb/)
 
