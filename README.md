@@ -25,7 +25,7 @@ Check out my coding portfolio! & my [Personal Website](https://bobbramillan.gith
 
 [Titanic Database Query App](https://bobtitanic.streamlit.app/)
 
-[NBA Data Visualization for Trading & Fantasy Teams](https://nba-study-103.streamlit.app/)
+[NBA Data Visualization](https://nba-study-103.streamlit.app/) and [it's repo](https://github.com/man-bug/nba-study-103)
 
 ## 🎓 About Me
 I am a second-year electronics & computer engineering student at Drexel University, passionate about exploring the realms of fullstack, machine learning, and building robust applications. Some important coursework: Digital Logic Design, Data Structures, Linear Algebra.
