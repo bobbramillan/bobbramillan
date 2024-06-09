@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ## 💫 About Me:
 * I am a pianist 🎹 & hooper 🏀.
 * I also build PC's for fun, current build: AMD's 5700G, 32GB DDR4, MSI B550 Tomahawk, NZXT Case
-* My favourite teams are: NY Red Bulls ⚽ & the Knicks 🏀 (I also am a staunch Liverpool fan)
+* My favourite teams are: NYCFC ⚽ & the Knicks 🏀 (i also am a Jude Bellingham fan & Carlos Sainz fan)
 
 ## 🚀 What I'm Up To
 🤖 Building a Machine Learning project with scikit-learn and nba_api
