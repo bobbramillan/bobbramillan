@@ -27,7 +27,7 @@ Check out my coding portfolio! & my [Personal Website](https://bobbramillan.gith
 
 [NBA Data Visualization](https://nba-study-103.streamlit.app/) and [it's repo](https://github.com/man-bug/nba-study-103)
 
-[React-Portfolio Sample](https://github.com/bobbramillan/bavi)
+[NextJS Sample Personal Website](https://portfolio-bobbramillans-projects.vercel.app/)
 
 in progress: [Bav Bot](https://github.com/bobbramillan/bav_bot)
 
