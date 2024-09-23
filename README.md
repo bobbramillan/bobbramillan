@@ -24,7 +24,8 @@ Check out my [Personal Website](https://bobbramillan.github.io/bavanan/)
 in progress: [Bav Bot](https://github.com/bobbramillan/bav_bot)
 
 ## 🎓 About Me
-I am a second-year studying Electrical & Computer/Electronics Engineering  at Drexel University, passionate about exploring the realms of fullstack web development, machine learning, data science, etc. Currently looking into SWE internships.
+I am a second-year studying Electrical & Computer/Electronics Engineering  at Drexel University, passionate about exploring the realms of fullstack web development, machine learning, data science, etc. Currently looking into SWE internships
+
 **🌐 Connect with me**: [LinkedIn](https://www.linkedin.com/in/bavananb/)
 
 # 💻 Tech Stack:
