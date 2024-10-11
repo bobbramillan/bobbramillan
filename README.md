@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🎓 About Me
-I'm studying Electrical & Computer/Electronics Engineering & Computer Science and I'm, passionate about exploring the realms of fullstack web development, machine learning, data science, etc. Currently looking into SWE internships for 2025.
+I'm studying Electrical & Computer/Electronics Engineering and I'm passionate about exploring the realms of fullstack, machine learning, and data science. Currently looking into SWE internships for 2025.
 
 **🌐 Connect with me**: [LinkedIn](https://www.linkedin.com/in/bavananb/)
 
