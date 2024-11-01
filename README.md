@@ -17,7 +17,9 @@ You can click the Preview link to take a look at your changes.
 
 [NBA Data Visualization](https://nba-study-103.streamlit.app/) and [it's repo](https://github.com/man-bug/nba-study-103)
 
-[Inventory Project from highschool](https://inventory-project-lemon.vercel.app/)
+[Inventory Project from highschool](https://inventory-project-lemon.vercel.app/) and [its repo](https://github.com/bobbramillan/InventoryProject)
+
+Check out my other repo's too! They are a testament to how my skills are growing! 
 
 ## 🎓 About Me
 I'm studying Electrical & Computer/Electronics Engineering and I'm passionate about exploring the realms of fullstack, machine learning, and data science. Currently looking into SWE internships for 2025.
