@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 [Inventory Project from highschool](https://inventory-project-lemon.vercel.app/) and [its repo](https://github.com/bobbramillan/InventoryProject)
 
+[Face Counter](https://github.com/bobbramillan/faceCounter)
+
 [Check out my other repo's too! They are a testament to how my skills are growing!](https://github.com/bobbramillan?tab=repositories)
 
 ## 🎓 About Me
