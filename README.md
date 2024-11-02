@@ -15,11 +15,11 @@ You can click the Preview link to take a look at your changes.
 
 *Recent Projects*:
 
-[NBA Data Visualization](https://nba-study-103.streamlit.app/) and [it's repo](https://github.com/man-bug/nba-study-103)
+[NBA Player Prediction Model](https://nba-study-103.streamlit.app/) and [it's repo](https://github.com/man-bug/nba-study-103)
 
 [Inventory Project from highschool](https://inventory-project-lemon.vercel.app/) and [its repo](https://github.com/bobbramillan/InventoryProject)
 
-[Face Counter repo](https://github.com/bobbramillan/faceCounter)
+[Face Counter Computer Vision AI Camera APP repo](https://github.com/bobbramillan/faceCounter)
 
 Beats Extern Data Analysis Colab *note that this is sample data and I am not allowed to release actual data, reports, or insights etc. [Link](https://colab.research.google.com/drive/15WoSjmyVPfmqzP6AbyRXb-s2T5U8toNy?usp=sharing)
 
