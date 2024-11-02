@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 [Face Counter repo](https://github.com/bobbramillan/faceCounter)
 
+Beats Extern Data Analysis Colab *note that this is sample data and I am not allowed to release actual data, reports, or insights etc. [Link](https://colab.research.google.com/drive/15WoSjmyVPfmqzP6AbyRXb-s2T5U8toNy?usp=sharing)
+
 [Check out my other repo's too! They are a testament to how my skills are growing!](https://github.com/bobbramillan?tab=repositories)
 
 ## 🎓 About Me
