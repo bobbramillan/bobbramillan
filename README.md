@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 💫 About Me:
-* Current PC build: AMD 5800X3D, DDR4 32GB, MSI B550 Tomahawk, WD Black SN850X
+* Current PC build: AMD 5800X3D, DDR4 32GB, MSI B550 Tomahawk, WD Black SN850X, 2080ti
 * Teams I follow : NYKnicks 🏀, Real Madrid ⚽
 
 ## 🚀 What I'm Up To
