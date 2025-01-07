@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bobbramillan
-- 🌱 I’m looking to collaborate on data science and web dev projects
-- 📫 How to reach me bbramillan@gmail.com
+- 🌱 I’m looking to collaborate on data science and web dev/software dev projects
+- 📫 How to reach me bob.bramillan@gmail.com
 
 <!---
 bobbramillan/bobbramillan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
