@@ -25,9 +25,6 @@ Beats Extern Data Analysis Colab *note that this is sample data and I am not all
 
 [Check out my other repo's too! They are a testament to how my skills are growing!](https://github.com/bobbramillan?tab=repositories)
 
-## 🎓 About Me
-I'm studying Software Engineering and I'm passionate about exploring the realms of fullstack, machine learning, and data science. Currently looking into SWE internships for 2025.
-
 **🌐 Connect with me**: [LinkedIn](https://www.linkedin.com/in/bavananb/)
 
 # 💻 Tech Stack:
