@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 [Inventory Project from highschool](https://inventory-project-lemon.vercel.app/) and [its repo](https://github.com/bobbramillan/InventoryProject)
 
-[Face Counter Computer Vision AI Camera APP repo](https://github.com/bobbramillan/faceCounter)
+[Face Counter OpenCV Camera webapp repo](https://github.com/bobbramillan/faceCounter)
 
 Beats Extern Data Analysis Colab *PLEASE NOTE this is sample data as I'm not allowed to release actual data, reports, or insights. [Link](https://colab.research.google.com/drive/15WoSjmyVPfmqzP6AbyRXb-s2T5U8toNy?usp=sharing)
 
