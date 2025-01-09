@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 [Face Counter OpenCV Camera webapp repo](https://github.com/bobbramillan/faceCounter)
 
-[Beats Extern Data Analysis Colab](https://colab.research.google.com/drive/15WoSjmyVPfmqzP6AbyRXb-s2T5U8toNy?usp=sharing) *PLEASE NOTE this is just a sample of data, and insights. 
+[Beats Extern Data Analysis Colab](https://colab.research.google.com/drive/15WoSjmyVPfmqzP6AbyRXb-s2T5U8toNy?usp=sharing) *PLEASE NOTE this is sample of data, and insights. 
 
 [Check out my other repo's too! They are a testament to how my skills are growing!](https://github.com/bobbramillan?tab=repositories)
 
