@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 💫 About Me:
 * Current PC build: 5800X3D, 32GB corsair DDR4, B550 msi Tomahawk, wd black SN850, 2080ti
-* Teams I follow : NYKnicks 🏀, Real Madrid ⚽
+* Teams I follow : NYKnicks 🏀, Real Madrid ⚽, Eagles 🏈
 
 ## 🚀 What I'm Up To
 
