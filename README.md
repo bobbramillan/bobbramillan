@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 [Drexel Shell](https://github.com/bobbramillan/cs283)
 
+[My Leetcode Progress](https://github.com/bobbramillan/bavleetcodes)
+
 [Beats Extern Data Analysis Colab](https://colab.research.google.com/drive/15WoSjmyVPfmqzP6AbyRXb-s2T5U8toNy?usp=sharing) *PLEASE NOTE this is sample data, and insights. 
 
 [Check out my other repo's too! They are a testament to how my skills are growing!](https://github.com/bobbramillan?tab=repositories)
