@@ -17,17 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 [NBA Player Prediction Model](https://nba-study-103.streamlit.app/) and [it's repo](https://github.com/man-bug/nba-study-103)
 
-[Inventory Project from highschool](https://inventory-project-lemon.vercel.app/) and [its repo](https://github.com/bobbramillan/InventoryProject)
-
-[Face Counter OpenCV Camera webapp repo](https://github.com/bobbramillan/faceCounter)
-
-[Drexel Shell](https://github.com/bobbramillan/cs283)
-
 [My Leetcode Progress](https://github.com/bobbramillan/bavleetcodes)
-
-[Beats Extern Data Analysis Colab](https://colab.research.google.com/drive/15WoSjmyVPfmqzP6AbyRXb-s2T5U8toNy?usp=sharing) *PLEASE NOTE this is sample data, and insights. 
-
-[Check out my other repo's too! They are a testament to how my skills are growing!](https://github.com/bobbramillan?tab=repositories)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bavananb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bobbramillan@gmail.com) 
