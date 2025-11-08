@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bobbramillan
 - 🌱 I’m looking to collaborate on data science and web dev/software dev projects
-- 📫 How to reach me bob.bramillan@gmail.com or [My Personal Website](https://sitey-lovat.vercel.app/)
+- 📫 How to reach me bob.bramillan@gmail.com or [My Personal Website](https://sitey-lovat.vercel.app/) or [LinkedIn](https://www.linkedin.com/in/bavananb)
 
 <!---
 bobbramillan/bobbramillan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
