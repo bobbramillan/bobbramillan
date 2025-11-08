@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 [My Leetcode Progress](https://github.com/bobbramillan/bavleetcodes)
 
+[My Personal Website](https://sitey-lovat.vercel.app/)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bavananb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bobbramillan@gmail.com) 
 
