@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 [My Personal Website](https://sitey-lovat.vercel.app/)
 
-[TDD website](https://bobbramillan.github.io/tdd-todo/) and [it's repo](https://github.com/bobbramillan/tdd-todo)
+[Test Driven Development Vite Nextjs website](https://bobbramillan.github.io/tdd-todo/) and [it's repo](https://github.com/bobbramillan/tdd-todo)
 
 [Swift iOS NYC WiFi Finder App](https://github.com/bobbramillan/nyc-wifi-finder)
 
