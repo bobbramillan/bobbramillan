@@ -6,11 +6,6 @@
 bobbramillan/bobbramillan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-## 💫 About Me:
-* Current PC build: 5800X3D, 32GB Corsair DDR4, MSI B550 Tomahawk, WD Black SN850, Nvidia 2080Ti
-* Teams I follow : NY Knicks 🏀, Real Madrid ⚽, Philadelphia Eagles 🏈
-
 ## 🚀 What I'm Up To
 
 *Recent Projects*:
