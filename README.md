@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 *Recent Projects*:
 
-[NBA Player Prediction Model](https://nba-study-103.streamlit.app/) and [it's repo](https://github.com/man-bug/nba-study-103)
+[NBA Player Prediction Model]() and [it's repo](https://github.com/bobbramillan/nba)
 
 [My Leetcode Progress](https://github.com/bobbramillan/bavleetcodes)
 
