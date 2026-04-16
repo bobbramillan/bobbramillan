@@ -1,6 +1,6 @@
 Hi there, I'm Bavanan Bramillan! 👋
 
-BS in Computer Science | Drexel University 🐉
+BS in Computer Science | Drexel University |
 [Email](mailto:bob.bramillan@gmail.com) • [LinkedIn](https://www.linkedin.com/in/bavananb) • [Portfolio](https://sitey-lovat.vercel.app/)
 
 ---
