@@ -1,7 +1,7 @@
 Hi there, I'm Bavanan Bramillan! 👋
 
 BS in Computer Science | Drexel University |
-[Email](mailto:bob.bramillan@gmail.com) • [LinkedIn](https://www.linkedin.com/in/bavananb) • [Portfolio](https://sitey-lovat.vercel.app/)
+[Email](mailto:bob.bramillan@gmail.com) • [LinkedIn](https://www.linkedin.com/in/bavananb) • [Portfolio](https://bav-bramillan.vercel.app/)
 
 ---
 
@@ -42,7 +42,7 @@ BS in Computer Science | Drexel University |
 ## 🤝 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bavananb)
-- 🌐 [Portfolio](https://sitey-lovat.vercel.app/)
+- 🌐 [Portfolio](https://bav-bramillan.vercel.app/)
 - 📫 [bob.bramillan@gmail.com](mailto:bob.bramillan@gmail.com)
 
 ---
