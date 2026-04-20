@@ -11,6 +11,7 @@ BS in Computer Science | Drexel University |
 - **[NBA Player Chemistry App](https://nba-chemistry-2024.streamlit.app/)**: Data viz tool analyzing player synergy (Python, Streamlit)
 - **[TDD Todo App](https://bobbramillan.github.io/tdd-todo/)**: Test-driven Vite + React web app
 - **[LeetCode Progress](https://github.com/bobbramillan/bavleetcodes)**: Ongoing grind 💪
+- **[Coast](https://bobbramillan.github.com/coast/)**: Java terminal login/signup app with Supabase PostgreSQL backend and AWS Lambda
 <!-- Add new projects here -->
 
 ---
