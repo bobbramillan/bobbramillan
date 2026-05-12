@@ -10,6 +10,7 @@ BS in Computer Science | Drexel University |
 - **[NYC WiFi Finder](https://github.com/bobbramillan/nyc-wifi-finder)**: Swift iOS app to locate free WiFi hotspots across NYC
 - **[NBA Player Chemistry App](https://github.com/bobbramillan/nba)**: Data viz tool analyzing player synergy (Python, Streamlit)
 - **[TDD Todo App](https://bobbramillan.github.io/tdd-todo/)**: Test-driven Vite + React web app
+- **[Global Generations Map](https://github.com/bobbramillan/tkinter_GlobalGenerationClassifier)**: its in the name, WiP
 - **[LeetCode Progress](https://github.com/bobbramillan/bavleetcodes)**: Ongoing grind 💪
 - **[Coast](https://github.com/bobbramillan/Coast)**: Java terminal login/signup app with Supabase PostgreSQL backend and AWS Lambda
 <!-- Add new projects here -->
