@@ -13,6 +13,7 @@ BS in Computer Science | Drexel University |
 - **[Global Generations Map](https://github.com/bobbramillan/tkinter_GlobalGenerationClassifier)**: its in the name, WiP
 - **[LeetCode Progress](https://github.com/bobbramillan/bavleetcodes)**: Ongoing grind 💪
 - **[Coast](https://github.com/bobbramillan/Coast)**: Java terminal login/signup app with Supabase PostgreSQL backend and AWS Lambda
+- **[Knickerbockers.nyc](knickerbockers.nyc)**: HTML with Supabase backend, using Serper API deployed with Vercel
 <!-- Add new projects here -->
 
 ---
