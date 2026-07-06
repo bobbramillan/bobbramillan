@@ -1,52 +1,28 @@
-Hi there, I'm Bavanan Bramillan! 👋
+```
+ ____                                   
+| __ )  __ ___   ___   __ _ _ __   __ _ 
+|  _ \ / _` \ \ / / | / _` | '_ \ / _` |
+| |_) | (_| |\ V /| |_| (_| | | | | (_| |
+|____/ \__,_| \_/ |_|\__,_|_| |_|\__,_|
+```
 
-BS in Computer Science | Drexel University |
-[Email](mailto:bob.bramillan@gmail.com) • [LinkedIn](https://www.linkedin.com/in/bavananb) • [Portfolio](https://bav-bramillan.vercel.app/)
-
----
-
-## 🔥 Currently Creating
-
-- **[NYC WiFi Finder](https://github.com/bobbramillan/nyc-wifi-finder)**: Swift iOS app to locate free WiFi hotspots across NYC
-- **[Global Generations Map](https://github.com/bobbramillan/tkinter_GlobalGenerationClassifier)**: its in the name, WiP
-- **[LeetCode Progress](https://github.com/bobbramillan/bavleetcodes)**: Ongoing grind 💪
-- **[Coast](https://github.com/bobbramillan/Coast)**: Java terminal login/signup app with Supabase PostgreSQL backend and AWS Lambda
-- **[Knickerbockers.nyc](https://www.knickerbockers.nyc)**: HTML with Supabase backend, using Serper API deployed with Vercel
-<!-- Add new projects here -->
+📧 [Email](mailto:bob.bramillan@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/bavananb) • 🌐 [Portfolio](https://bav-bramillan.vercel.app/) • 💻 [GitHub](https://github.com/bobbramillan)
 
 ---
 
-## 🦾 Tech Stack
+**[Coast](https://github.com/bobbramillan/Coast)** | Java • Spring Boot • Supabase • AWS  
+Full-stack user account system with secure authentication and serverless backend. SHA-256 hashing, credential management via AWS Secrets Manager, dual deployment (Lambda → Spring Boot on EC2).
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**[NYC WiFi Finder](https://github.com/bobbramillan/nyc-wifi-finder)** | Swift • SwiftUI • Node.js • MongoDB  
+iOS app displaying 500+ NYC public WiFi hotspots with vector similarity recommendations using Voyage AI embeddings.
+
+**[New Grad Jobs API](https://github.com/bobbramillan/internship-api)** | Java • Spring Boot • PostgreSQL  
+Public REST API auto-syncing 2025/2026 new grad job listings every 30 minutes from SimplifyJobs. Deployed to Railway.
 
 ---
 
-## 🤝 Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/bavananb)
-- 🌐 [Portfolio](https://bav-bramillan.vercel.app/)
-- 📫 [bob.bramillan@gmail.com](mailto:bob.bramillan@gmail.com)
+[![Bavanan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=bobbramillan&theme=tokyo-night&hide_border=true)](https://github.com/bobbramillan)
 
 ---
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
