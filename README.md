@@ -22,6 +22,9 @@ iOS app displaying 500+ NYC public WiFi hotspots with vector similarity recommen
 **[New Grad Jobs API](https://github.com/bobbramillan/internship-api)** | Java • Spring Boot • PostgreSQL  
 Public REST API auto-syncing 2025/2026 new grad job listings every 30 minutes from SimplifyJobs. Deployed to Railway.
 
+**[Knickerbockers](https://www.knickerbockers.nyc)** | HTML • CSS • JavaScript • Vercel • Supabase
+Website to find curated selection of Knicks fan merch and gear from the 2026 championship. Auto-syncs suggestions from Serper that are then sent for manual approval. Users may also suggest merch to be listed.
+
 ---
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
