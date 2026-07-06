@@ -1,9 +1,12 @@
 ```
- ____                                   
-| __ )  __ ___   ___   __ _ _ __   __ _ 
-|  _ \ / _` \ \ / / | / _` | '_ \ / _` |
-| |_) | (_| |\ V /| |_| (_| | | | | (_| |
-|____/ \__,_| \_/ |_|\__,_|_| |_|\__,_|
+  ____                                     
+ |  _ \                                    
+ | |_) | __ ___   ____ _ _ __   __ _ _ __  
+ |  _ < / _` \ \ / / _` | '_ \ / _` | '_ \ 
+ | |_) | (_| |\ V / (_| | | | | (_| | | | |
+ |____/ \__,_| \_/ \__,_|_| |_|\__,_|_| |_|
+                                           
+                                                                              
 ```
 
 📧 [Email](mailto:bob.bramillan@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/bavananb) • 🌐 [Portfolio](https://bav-bramillan.vercel.app/) • 💻 [GitHub](https://github.com/bobbramillan)
@@ -18,10 +21,6 @@ iOS app displaying 500+ NYC public WiFi hotspots with vector similarity recommen
 
 **[New Grad Jobs API](https://github.com/bobbramillan/internship-api)** | Java • Spring Boot • PostgreSQL  
 Public REST API auto-syncing 2025/2026 new grad job listings every 30 minutes from SimplifyJobs. Deployed to Railway.
-
----
-
-[![Bavanan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=bobbramillan&theme=tokyo-night&hide_border=true)](https://github.com/bobbramillan)
 
 ---
 
