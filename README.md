@@ -10,8 +10,8 @@
 ```
 📧 [Email](mailto:bob.bramillan@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/bavananb) • 🌐 [Portfolio](https://bav-bramillan.vercel.app/) • 💻 [GitHub](https://github.com/bobbramillan)
 ---
-**[Coast](https://github.com/bobbramillan/Coast)** | Java • Spring Boot • Supabase • AWS  
-Full-stack user account system with secure authentication and serverless backend. SHA-256 hashing, credential management via AWS Secrets Manager, dual deployment (Lambda → Spring Boot on EC2).
+**[Coast](https://github.com/bobbramillan/Coast)** | Java • Maven • Supabase • AWS
+Terminal user account system with a serverless AWS Lambda + API Gateway layer handling all DB operations, so no credentials ship in the distributed JAR. SHA-256 hashing with per-user salt, secrets in AWS Secrets Manager, Lambdas auto-deployed via GitHub Actions.
 
 **[NYC WiFi Finder](https://github.com/bobbramillan/nyc-wifi-finder)** | Swift • SwiftUI • Node.js • MongoDB  
 iOS app displaying 500+ NYC public WiFi hotspots with vector similarity recommendations using Voyage AI embeddings.
@@ -28,7 +28,5 @@ Command-driven banking engine built test-first on a polymorphic account hierarch
 **[netshell](https://github.com/bobbramillan/netshell)** | C • POSIX • Sockets • Make  
 Unix-style shell with multi-pipe chains, I/O redirection, background processes, tab completion, and arrow-key history. Built-in LAN chat with peer auto-discovery over UDP broadcast.
 
-**[Global Generation Classifier](https://github.com/bobbramillan/tkinter_GlobalGenerationClassifier)** | Python • Tkinter  
-Desktop app mapping age and country to a generation cohort and continent. Tkinter GUI with dropdown selection and input validation.
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
