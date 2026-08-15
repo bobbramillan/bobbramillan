@@ -8,11 +8,8 @@
                                                                                                                 
                                                                               
 ```
-
 📧 [Email](mailto:bob.bramillan@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/bavananb) • 🌐 [Portfolio](https://bav-bramillan.vercel.app/) • 💻 [GitHub](https://github.com/bobbramillan)
-
 ---
-
 **[Coast](https://github.com/bobbramillan/Coast)** | Java • Spring Boot • Supabase • AWS  
 Full-stack user account system with secure authentication and serverless backend. SHA-256 hashing, credential management via AWS Secrets Manager, dual deployment (Lambda → Spring Boot on EC2).
 
@@ -25,6 +22,13 @@ Public REST API auto-syncing 2025/2026 new grad job listings every 30 minutes fr
 **[Knickerbockers](https://www.knickerbockers.nyc)** | HTML • CSS • JavaScript • Vercel • Supabase
 Website to find curated selection of Knicks fan merch and gear from the 2026 championship. Auto-syncs suggestions from Serper API that are then sent for manual approval. Users may also suggest merch to be listed.
 
----
+**[Banking System](https://github.com/bobbramillan/banking)** | Java • JUnit 5 • Gradle • JaCoCo • PIT  
+Command-driven banking engine built test-first on a polymorphic account hierarchy. 412 JUnit 5 tests against 900 lines of production code, validated with mutation testing rather than coverage alone.
 
+**[netshell](https://github.com/bobbramillan/netshell)** | C • POSIX • Sockets • Make  
+Unix-style shell with multi-pipe chains, I/O redirection, background processes, tab completion, and arrow-key history. Built-in LAN chat with peer auto-discovery over UDP broadcast.
+
+**[Global Generation Classifier](https://github.com/bobbramillan/tkinter_GlobalGenerationClassifier)** | Python • Tkinter  
+Desktop app mapping age and country to a generation cohort and continent. Tkinter GUI with dropdown selection and input validation.
+---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
