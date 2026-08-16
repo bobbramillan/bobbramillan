@@ -8,7 +8,7 @@
                                                                                                                 
                                                                               
 ```
-📧 [Email](mailto:bob.bramillan@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/bavananb) • 🌐 [Portfolio](https://bav-bramillan.vercel.app/) • 💻 [GitHub](https://github.com/bobbramillan)
+📧 [Email](mailto:bob.bramillan@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/bavananb) • 🌐 [Portfolio](knickerbockers.nyc) • 💻 [GitHub](https://github.com/bobbramillan)
 ---
 **[Coast](https://github.com/bobbramillan/Coast)** | Java • Maven • Supabase • AWS
 Terminal user account system with a serverless AWS Lambda + API Gateway layer handling all DB operations, so no credentials ship in the distributed JAR. SHA-256 hashing with per-user salt, secrets in AWS Secrets Manager, Lambdas auto-deployed via GitHub Actions.
@@ -20,7 +20,7 @@ iOS app displaying 500+ NYC public WiFi hotspots with vector similarity recommen
 Public REST API auto-syncing 2025/2026 new grad job listings every 30 minutes from SimplifyJobs. Deployed to Railway.
 
 **[Knickerbockers](https://www.knickerbockers.nyc)** | HTML • CSS • JavaScript • Vercel • Supabase
-Website to find curated selection of Knicks fan merch and gear from the 2026 championship. Auto-syncs suggestions from Serper API that are then sent for manual approval. Users may also suggest merch to be listed.
+Website to find curated selection of Knicks fan merch and gear from the 2026 championship. Auto-syncs suggestions from Serper API that are then sent for manual approval. Users may also suggest merch to be listed. Had to be closed down due to IP issues.
 
 **[Banking System](https://github.com/bobbramillan/banking)** | Java • JUnit 5 • Gradle • JaCoCo • PIT  
 Command-driven banking engine built test-first on a polymorphic account hierarchy. 412 JUnit 5 tests against 900 lines of production code, validated with mutation testing rather than coverage alone.
