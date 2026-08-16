@@ -8,7 +8,7 @@
                                                                                                                 
                                                                               
 ```
-📧 [Email](mailto:bob.bramillan@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/bavananb) • 🌐 [Portfolio](knickerbockers.nyc) • 💻 [GitHub](https://github.com/bobbramillan)
+📧 [Email](mailto:bob.bramillan@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/bavananb) • 🌐 [Portfolio](https://knickerbockers.nyc) • 💻 [GitHub](https://github.com/bobbramillan)
 ---
 **[Coast](https://github.com/bobbramillan/Coast)** | Java • Maven • Supabase • AWS
 Terminal user account system with a serverless AWS Lambda + API Gateway layer handling all DB operations, so no credentials ship in the distributed JAR. SHA-256 hashing with per-user salt, secrets in AWS Secrets Manager, Lambdas auto-deployed via GitHub Actions.
