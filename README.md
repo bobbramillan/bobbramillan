@@ -16,8 +16,8 @@ Terminal user account system with a serverless AWS Lambda + API Gateway layer ha
 **[NYC WiFi Finder](https://github.com/bobbramillan/nyc-wifi-finder)** | Swift • SwiftUI • Node.js • MongoDB  
 iOS app displaying 500+ NYC public WiFi hotspots with vector similarity recommendations using Voyage AI embeddings.
 
-**[New Grad Jobs API](https://github.com/bobbramillan/internship-api)** | Java • Spring Boot • PostgreSQL  
-Public REST API auto-syncing 2025/2026 new grad job listings every 30 minutes from SimplifyJobs. Deployed to Railway.
+**[SWE Internship API](https://github.com/bobbramillan/internship-api)** | Java • Spring Boot • PostgreSQL  
+Public REST API auto-syncing 2027 summer SWE internship listings every 30 minutes from a Simplify repo. Deployed to Railway.
 
 **[Knickerbockers](https://www.knickerbockers.nyc)** | HTML • CSS • JavaScript • Vercel • Supabase
 Website to find curated selection of Knicks fan merch and gear from the 2026 championship. Auto-syncs suggestions from Serper API that are then sent for manual approval. Users may also suggest merch to be listed. Had to be closed down due to IP issues.
