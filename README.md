@@ -20,7 +20,7 @@ iOS app displaying 500+ NYC public WiFi hotspots with vector similarity recommen
 Public REST API auto-syncing 2027 summer SWE internship listings every 30 minutes from a Simplify repo. Deployed to Railway.
 
 **[Knickerbockers](https://www.knickerbockers.nyc)** | HTML • CSS • JavaScript • Vercel • Supabase
-Website to find curated selection of Knicks fan merch and gear from the 2026 championship. Auto-syncs suggestions from Serper API that are then sent for manual approval. Users may also suggest merch to be listed. Had to be closed down due to IP issues.
+                                                                                                                       Website to find curated selection of Knicks fan merch and gear from the 2026 championship. Auto-syncs suggestions from Serper API that are then sent for manual approval. Users may also suggest merch to be listed. Had to be closed down due to IP issues.
 
 **[Banking System](https://github.com/bobbramillan/banking)** | Java • JUnit 5 • Gradle • JaCoCo • PIT  
 Command-driven banking engine built test-first on a polymorphic account hierarchy. 412 JUnit 5 tests against 900 lines of production code, validated with mutation testing rather than coverage alone.
