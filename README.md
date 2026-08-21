@@ -10,6 +10,9 @@
 ```
 📧 [Email](mailto:bob.bramillan@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/bavananb) • 🌐 [Portfolio](https://knickerbockers.nyc) • 💻 [GitHub](https://github.com/bobbramillan)
 ---
+
+[Global Generation Classifier](https://github.com/bobbramillan/tkinter_GlobalGenerationClassifier) | Python • Tkinter • DeepFace • TensorFlow • OpenCV | Desktop app that classifies a person's generation and continent/region from a photo, running DeepFace's age and race models locally via a background thread so the Tkinter GUI never blocks. Every model-derived guess (age, country, region, subregion) is surfaced as an editable suggestion the user must confirm before classification runs — no inference is auto-committed. 
+
 **[Coast](https://github.com/bobbramillan/Coast)** | Java • Maven • Supabase • AWS |
 Terminal user account system with a serverless AWS Lambda + API Gateway layer handling all DB operations, so no credentials ship in the distributed JAR. SHA-256 hashing with per-user salt, secrets in AWS Secrets Manager, Lambdas auto-deployed via GitHub Actions.
 
